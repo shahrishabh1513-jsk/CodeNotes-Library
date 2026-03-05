@@ -39,3 +39,39 @@ It helps with:
 </p>
 
 ---
+
+# 🚀 How to Use
+
+1. Browse the repository folders.
+2. Open the programming language you want to learn.
+3. Download the PDF notes.
+4. Start learning.
+
+---
+
+# 📦 Features
+
+✔ Organized folder structure  
+✔ Beginner-friendly notes  
+✔ Easy to download resources  
+✔ Multi-language support  
+✔ Simple and clean repository layout  
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+If you have better notes or additional programming resources:
+
+1. Fork the repository
+2. Add your PDF files
+3. Commit your changes
+4. Create a Pull Request
+
+---
+
+# ⭐ Support
+
+If you find this repository useful, consider giving it a **star ⭐** to support the project.
