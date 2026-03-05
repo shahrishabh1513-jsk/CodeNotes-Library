@@ -59,19 +59,7 @@ It helps with:
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome!
-
-If you have better notes or additional programming resources:
-
-1. Fork the repository
-2. Add your PDF files
-3. Commit your changes
-4. Create a Pull Request
-
----
-
 # ⭐ Support
 
 If you find this repository useful, consider giving it a **star ⭐** to support the project.
+
